@@ -10,3 +10,5 @@
 *.sh annex.largefiles=nothing
 
 scripts/* annex.largefiles=nothing
+Persona-Chat/* annex.largefiles=anything
+.built annex.largefiles=nothing
